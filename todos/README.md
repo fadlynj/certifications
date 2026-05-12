@@ -140,4 +140,4 @@ dart run build_runner build --delete-conflicting-outputs
 
 ## Developer
 
-**Fadly Nugraha** — fadly@example.com
+**Fadly Nugraha Jati (2241720149)** — fadlynugrahaj@gmail.com
